@@ -164,18 +164,13 @@
 		9D5355611F2197A300F7C5E0 /* demo_blueTooth */ = {
 			isa = PBXGroup;
 			children = (
-				9DE720C61F25E74C00489047 /* UIViewController+DIYViewController.h */,
-				9DE720C71F25E74C00489047 /* UIViewController+DIYViewController.m */,
 				9DCCBAF91F2333490021D7BD /* MBProgessHUD */,
 				9DABCFCF1F21E64F00FD1F21 /* MJRefresh */,
+				9DCCBB091F2351D90021D7BD /* sounds */,
 				9D5355651F2197A300F7C5E0 /* AppDelegate.h */,
 				9D5355661F2197A300F7C5E0 /* AppDelegate.m */,
 				9D5355681F2197A300F7C5E0 /* PeriViewController.h */,
 				9D5355691F2197A300F7C5E0 /* PeriViewController.m */,
-				9DCCBB171F23524B0021D7BD /* Singleton.h */,
-				9DCCBB071F2351D90021D7BD /* AudioManager.h */,
-				9DCCBB081F2351D90021D7BD /* AudioManager.m */,
-				9DCCBB091F2351D90021D7BD /* sounds */,
 				9D53556B1F2197A300F7C5E0 /* Main.storyboard */,
 				9D53556E1F2197A300F7C5E0 /* Assets.xcassets */,
 				9D5355701F2197A300F7C5E0 /* LaunchScreen.storyboard */,
@@ -190,8 +185,13 @@
 				9DCCBB031F233F8D0021D7BD /* SetFilterStringVC.m */,
 				9DCCBB041F233F8D0021D7BD /* SetFilterStringVC.xib */,
 				9DE720C11F25E52700489047 /* CheckList.json */,
+				9DCCBB171F23524B0021D7BD /* Singleton.h */,
+				9DCCBB071F2351D90021D7BD /* AudioManager.h */,
+				9DCCBB081F2351D90021D7BD /* AudioManager.m */,
 				9DE720C31F25E71300489047 /* DataManager.h */,
 				9DE720C41F25E71300489047 /* DataManager.m */,
+				9DE720C61F25E74C00489047 /* UIViewController+DIYViewController.h */,
+				9DE720C71F25E74C00489047 /* UIViewController+DIYViewController.m */,
 			);
 			path = demo_blueTooth;
 			sourceTree = "<group>";
